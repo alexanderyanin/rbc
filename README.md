@@ -1,4 +1,4 @@
 # Russian Baptist Church of Vladivostok
-Разработка сайта для Русской Баптистской Церкви города Владивостока.
+Website development for the Russian Baptist Church in Vladivostok
 
 https://rbc-vl.ru
